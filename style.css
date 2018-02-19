@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color:#C70303;
+    font-size: 100px;
+   text-align: center;
+    display: inline-block;
+    margin: 25px;
+    line-height: 200px;
+    
+}
+button {
+    float: left;
+    display: inline;
+}
+p {
+    color: white;
+}
